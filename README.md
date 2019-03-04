@@ -1,2 +1,2 @@
 # sboot
-Spring Boot Examples
+Spring Boot Examples with Gradle
